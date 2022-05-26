@@ -1,0 +1,300 @@
+#section1{
+    background-image: url(images/hero-bg.png);
+}
+
+h1{
+    color: black;
+    font-family: "Open Sans";
+}
+h2{
+    color: black;
+    font-family: "Open Sans";
+}
+
+ .nav-link{
+     color: black;
+ }
+.nav-link1{
+    color: #fff;
+    background-color:goldenrod;
+    border-radius: 25px;
+}
+ .nav-link:hover{
+    color:  goldenrod;
+    background-color: #fff;
+}
+ body{
+    font-family: "Open Sans";
+}
+ .navbar{
+     padding-right: 30px;
+     font-family: "Open Sans";
+ }
+ .navbar-brand{
+     padding-left: 15px;
+ }
+ .nav-item{
+     padding-right: 50px;
+ }
+ .btn{
+     background-color: goldenrod;
+     color: white;
+     border-radius: 25px;
+ }
+ /* testtimonial */
+ #testimonials{
+     text-align: right;
+     
+ }
+ #testimonials{
+    background-color:transparent;
+ }
+ #testimonials h1{
+     padding-right: 400px;
+     padding-bottom: 5px;
+     color: black;
+ }
+ #testimonials h3{
+     color: black;
+     padding-right: 385px;
+     padding-top: 100px;
+ }
+ #testimonials h2{
+    padding-right: 650px;
+    padding-bottom: 10px ;
+    color: black;
+    margin-bottom: 50px;
+ }
+ .testimonials{
+    width: 30%;
+ }
+ ul{
+     display: flex;
+ }
+ ul li {
+      display: inline-block;
+      padding-right: 20px ;  
+ }
+ .btn1{
+     border-radius: 25px;
+     background-color: black;
+     color: #fff;
+     text-align: center;
+     height: 50px;
+     width: 200px;    
+ }
+.btn1:hover{
+    background-color: goldenrod;
+    color: black;
+} 
+
+/* section2 */
+ #section2{
+     text-align: center;
+     font-family: "open sans";
+     font-size: 16px;
+ }
+ #section2 h2{
+     padding-top: 50px;
+     padding-bottom: 65px;
+      text-align: center;
+     color: black;
+ }
+ .rigid1{
+     margin-left: 108px;
+
+ }
+.rigid2{    
+    padding-top: 14px;
+    margin-left: 87px;
+}
+.rigid3{
+    margin-left: 87px;
+}
+.rigid4{
+    margin-left: 87px;
+}
+
+/* section3 */
+#section3{
+    text-align: center;
+    align-items: center;
+    padding: 40px;
+}
+ .img-1{
+    margin: -11px;
+    margin-top: 5px;
+ }
+ .card-btn{
+     border:none ;
+ }
+.section3{
+    padding-top: 50px ;
+    position: relative;
+    padding-left: 40px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ 
+.section3::after{
+    content: "";
+    height: 2px;
+    width: 2%;
+    background-color: goldenrod;
+    position: absolute;
+    left: 20%;
+    bottom:0;
+}
+.card:hover{
+    background-color: goldenrod;
+}
+/* section4 */
+#section4{
+    
+}
+#section4 ul{
+font-size: 2rem;
+color: aliceblue; 
+margin-left: 281px;
+padding-top: 25px;
+}
+.section4{
+    background-color: rgb(56, 124, 124);
+    text-align: center;
+    height: 136px;
+}
+.btn-sec4{
+    border-radius: 25px;
+    background-color: transparent;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    height: 50px;
+    width: 200px;    
+    border: solid whitesmoke; 
+    margin-bottom: 10px;   
+    
+}
+.btn-sec4:hover{
+    color: #fff;
+    background: black;
+}
+.li-sec4{
+    padding-right: 220px;
+    font-size: 2.5rem;
+    color: #fff;
+}
+ 
+/* section5 */
+#section5{
+    text-align: center;
+    margin-top: 60px;
+    align-items: center;
+}
+#section5{
+    margin-bottom: 60px;
+}
+.background{
+    background-image: url(images/about-us-bg.png);
+
+}
+.row1{
+    background: transparent;
+}
+.sir1{
+    width: 200px;
+    margin-top: 100px;
+}
+.sir2{
+    width: 200px;
+    margin-top: 100px;
+}
+.sir3{
+    width: 200px;
+    margin-top: 100px;
+}
+.sir4{
+    width: 200px;
+    margin-top: 100px;
+}
+.p-sec5{
+     font-family: "open sans";
+     font-weight: bolder;
+     font-size: 1.5rem;
+     margin-top: 30px;
+}  
+.p2sec-5{
+    color: goldenrod;
+    font-weight: 800;
+    font-size: 1.5rem;
+}
+ 
+ 
+ /* section6 */
+ #section6{
+     background: url(images/tweet-by-ali-bg.png);
+     align-items: left;
+      
+ }
+ .section-6{
+     align-items: center;
+     margin-bottom: 100px;
+ }
+ .twitt{
+     margin-top: 155px;
+     margin-left: 133px;
+     width: 30px;
+ }
+ .tweet{
+     margin-left: 133px;
+     margin-top: 5px;
+     color: #fff;
+     font-size: "lora";
+     font-weight: 800;
+ }
+ /* section7 */
+ #section7 ul li{
+     margin-top: 10px;
+
+ }
+ .client{
+     color: goldenrod;
+ }
+ .last1{
+     margin-right: 240px;
+ }
+ul{
+  font-family: 'lora';
+}
+.client-img{
+    margin-left: 50px;
+}
+.client-imgs{
+     margin-top: 40px;
+     display: inline;
+}
+/* section-footer */
+.foot{
+    background-color: rgb(206, 204, 204);
+    text-align: center;
+}
+.foot1{
+    margin-top: 20px;
+
+}
+.foot-logo{
+    text-align: center;
+    width: 250px;
+    margin-left: 500px;
+}
+.footer-2{
+    text-align: center;
+    margin-top: 112px;
+    margin-left: 150px;
+}
+.footer-1{
+    text-align: center;
+}
+.foot-tble{
+    margin-left: 940px;
+    margin-top: -140px;
+}
